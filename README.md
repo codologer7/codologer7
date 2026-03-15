@@ -9,17 +9,17 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **AI & ML Enthusiast** | Passionate about Data Science, IoT, and Competitive Programming  
-- 💡 Skilled in **Python, C++, Java, SQL, Machine Learning, Deep Learning, IoT Projects**  
+- 🎓 **AI & ML Enthusiast** | Passionate about Data Science, IoT, and Real World Projects
+- 💡 Skilled in **C, Python, Java, SQL, Machine Learning, Gen AI, IoT & Robotics**  
 - 📚 Currently exploring **DSA, Hackathons, and Internship opportunities**  
-- 🌍 Active on platforms like **LeetCode, Hack2Skill, Unstop, SWAYAM**  
+- 🌍 Active on platforms like **LeetCode, Hack2Skill, Unstop, LinkedIn**  
 - ✨ Always learning, building, and sharing knowledge  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,mysql,mongodb,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql,git,github,bash,vscode" />
 </p>
 
 ---
@@ -33,16 +33,17 @@
 ---
 
 ## 🌟 Featured Projects
-- 🔹 **IoT Assignment – ESP32 with Dual LCDs** → [View Project](https://wokwi.com/projects/456236195835981825)  
-- 🔹 **Customer Churn Prediction (ML)** → [Google Colab Notebook](https://colab.research.google.com/drive/1NpVNiVr2NfV0O-WmQrQQdq4rKz7rf3D7)  
-- 🔹 **Digital Circuit Simulator** → [CircuitVerse](https://circuitverse.org/simulator)  
+- 🔹 **Health AI** → [Project Repo](https://github.com/codologer7/health-ai-project).
+- 🔹 **Space Tech Satellite Dashboard** → [Project Repo](https://github.com/codologer7/Space-Tech-Satellite-Dashboard)  
+- 🔹 **Autonomous Customer Churn Prediction Platform** → [Project Repo](https://github.com/codologer7/Autonomous-Customer-Churn-Prediction-Intelligent-Retention-Action-Platform)  
 
 ---
 
 ## 🏆 Achievements & Activities
-- 🥇 Participated in **Hackathons** (Unstop, Hack2Skill, UIDAI Data Hackathon)  
+- 🥇 Participated in **Hackathons** (Unstop, Hack2Skill, UIDAI Data Hackathon, RIFT 26)
+- 🔥 **AI-900** and **AZ-900** Certified from **Microsoft**
+- 🎯 Achieved **Software Engineering** certificate from **NPTEL - IIT Madras**
 - 📖 Enrolled in **SWAYAM Courses** for continuous learning  
-- 🎯 Preparing for **Summer Internships at IITs & IIITs**  
 
 ---
 
