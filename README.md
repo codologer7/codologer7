@@ -1,11 +1,5 @@
 # ✨ **Welcome To The Abhay Singh's Workspace** 💀
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codologer7&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/codologer7?style=for-the-badge&color=green" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/codologer7?style=for-the-badge&color=yellow" alt="Stars"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -58,4 +52,10 @@
 
 <p align="center">
   💡 *“Code. Learn. Build. Repeat.”* 💡
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codologer7&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/codologer7?style=for-the-badge&color=green" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/codologer7?style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
