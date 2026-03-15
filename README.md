@@ -1,15 +1,15 @@
 # ✨ **Welcome To The Abhay Singh's Workspace** 💀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Hi+I'm+Abhay+Singh;AI+%26+ML+Enthusiast;IoT+Builder;Hackathon+Explorer)](https://git.io/typing-svg)
-
-
 ---
-![GitHub Snake Light](https://github.com/codologer7/codologer7/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ![GitHub Snake Dark](https://github.com/codologer7/codologer7/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
 ## 🚀 About Me
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Hi+I'm+Abhay+Singh;AI+%26+ML+Enthusiast;IoT+Builder;Hackathon+Explorer)](https://git.io/typing-svg)
+
 - 🎓 **AI & ML Enthusiast** | Passionate about Data Science, IoT, and Real World Projects
 - 💡 Skilled in **C, Python, Java, SQL, Machine Learning, Gen AI, IoT & Robotics**  
 - 📚 Currently exploring **DSA, Hackathons, and Internship opportunities**  
