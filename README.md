@@ -2,7 +2,8 @@
 
 ---
 
-![GitHub Snake Dark](https://github.com/codologer7/codologer7/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://github.com/codologer7/codologer7/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -33,6 +34,10 @@
 ![Pull Requests](https://img.shields.io/badge/PRs%20Merged-100+-purple?style=for-the-badge)
 
 ---
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codologer7&theme=radical)
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codologer7&show_icons=true&theme=radical" height="180"/>
