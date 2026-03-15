@@ -2,11 +2,6 @@
 
 ---
 
-![GitHub Snake](https://github.com/codologer7/codologer7/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 ## 🚀 About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Hi+I'm+Abhay+Singh;AI+%26+ML+Enthusiast;IoT+Builder;Hackathon+Explorer)](https://git.io/typing-svg)
@@ -28,19 +23,11 @@
 
 ## 📈 GitHub Stats
 
-![Repos](https://img.shields.io/badge/Public%20Repos-20-blue?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-1k+-green?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues%20Closed-50+-yellow?style=for-the-badge)
-![Pull Requests](https://img.shields.io/badge/PRs%20Merged-100+-purple?style=for-the-badge)
-
----
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codologer7&theme=radical)
 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codologer7&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codologer7&layout=compact&theme=radical" height="180"/>
 </p>
 
