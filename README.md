@@ -54,6 +54,8 @@
   💡 *“Code. Learn. Build. Repeat.”* 💡
 </p>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codologer7&style=for-the-badge&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/codologer7?style=for-the-badge&color=green" alt="Followers"/>
